@@ -1,3 +1,9 @@
+# =====================================================================
+# COPYRIGHT NOTICE & LEGAL PROTECTION BLOCK
+# Copyright (c) 2026 Raimond Basant Minz. All Rights Reserved.
+# Protected under International Prior Art Guidelines.
+# =====================================================================
+
 import time
 import re
 import os
